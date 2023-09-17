@@ -1,17 +1,13 @@
 /*
   Project Name: Library Management System
-  Created By: GANESH MOURYA
+  Created By: samuel gichohi
   
-  Github: https://github.com/Alkaison/Library-Management-System/
-  LinkedIn: https://linkedin.com/in/Alkaison
-  Twitter: https://twitter.com/Alkaison
-*/
+  */
 // Pre-Defined Header Files
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 #include<stdlib.h>
-#include<windows.h>
+
 
 // Define Constant KeyWords 
 #define ENTER 13
@@ -262,26 +258,7 @@ void bookPanel(){
     }
 }
 
-// Program end credit screen - Yeah, i made it alone 
-// Star the Repo on github and follow me :) 
-void endScreen(){
 
-    system("cls");
-    fflush(stdin);
-
-    printf("----------------------------------------------\n");
-    printf(">>> Creator: @Alkaison (Ganesh Mourya) <<< \n");
-    printf("----------------------------------------------\n\n");
-
-    printf("> Github: https://github.com/Alkaison \n");
-    printf("> Twitter: https://twitter.com/Alkaison \n");
-    printf("> LinkedIn: https://www.linkedin.com/in/Alkaison \n\n");
-
-    exit(0);
-}
-
-// User Functions 
-// Creates new file if old doesn't exist and saves user records in it 
 void addUser(){
     
 label1:

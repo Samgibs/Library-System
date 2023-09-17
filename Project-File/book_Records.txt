@@ -1,5 +1,3 @@
-Dracula Willam Stanford 11 10 
-Shogun James Standford 12 10 
-Ellipsis Newton Oxford 13 15 
-Candide Voltaire Nalanda 14 15 
-Beloved Toni DTU 15 20 
+"Information Science" by David G. Luenberger
+"Information Science for Materials Discovery and Design" by Turab Lookman and Wei-Keng Liao
+"Introduction to Information Science" by David Bawden and Lyn Robinson
